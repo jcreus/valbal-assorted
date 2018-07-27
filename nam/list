@@ -1,0 +1,452 @@
+1:Pressure reduced to MSL:Pa (instant):lambert:meanSea:level 0:fcst time 2 hrs:from 201712091800
+2:Derived radar reflectivity:dB (instant):lambert:hybrid:level 1:fcst time 2 hrs:from 201712091800
+3:Maximum/Composite radar reflectivity:dB (instant):lambert:unknown:level 0 considered as a single layer:fcst time 2 hrs:from 201712091800
+4:Visibility:m (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+5:Visibility:m (instant):lambert:cloudTop:level 0:fcst time 2 hrs:from 201712091800
+6:Blackadar mixing length scale:m (instant):lambert:hybrid:level 1:fcst time 2 hrs:from 201712091800
+7:Geopotential Height:gpm (instant):lambert:unknown:level 0:fcst time 2 hrs:from 201712091800
+8:U component of wind:m s**-1 (instant):lambert:unknown:level 0:fcst time 2 hrs:from 201712091800
+9:V component of wind:m s**-1 (instant):lambert:unknown:level 0:fcst time 2 hrs:from 201712091800
+10:Ventilation Rate:m**2 s**-1 (instant):lambert:unknown:level 0:fcst time 2 hrs:from 201712091800
+11:Wind speed (gust):m s**-1 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+12:197:197 (instant):lambert:unknown:level 0 considered as a single layer:fcst time 2 hrs:from 201712091800
+13:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 500 Pa:fcst time 2 hrs:from 201712091800
+14:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 1000 Pa:fcst time 2 hrs:from 201712091800
+15:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 2000 Pa:fcst time 2 hrs:from 201712091800
+16:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 5000 Pa:fcst time 2 hrs:from 201712091800
+17:Temperature:K (instant):lambert:isobaricInhPa:level 5000 Pa:fcst time 2 hrs:from 201712091800
+18:Relative humidity:% (instant):lambert:isobaricInhPa:level 5000 Pa:fcst time 2 hrs:from 201712091800
+19:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 5000 Pa:fcst time 2 hrs:from 201712091800
+20:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 5000 Pa:fcst time 2 hrs:from 201712091800
+21:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 5000 Pa:fcst time 2 hrs:from 201712091800
+22:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 5000 Pa:fcst time 2 hrs:from 201712091800
+23:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 5000 Pa:fcst time 2 hrs:from 201712091800
+24:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 7500 Pa:fcst time 2 hrs:from 201712091800
+25:Temperature:K (instant):lambert:isobaricInhPa:level 7500 Pa:fcst time 2 hrs:from 201712091800
+26:Relative humidity:% (instant):lambert:isobaricInhPa:level 7500 Pa:fcst time 2 hrs:from 201712091800
+27:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 7500 Pa:fcst time 2 hrs:from 201712091800
+28:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 7500 Pa:fcst time 2 hrs:from 201712091800
+29:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 7500 Pa:fcst time 2 hrs:from 201712091800
+30:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 7500 Pa:fcst time 2 hrs:from 201712091800
+31:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 7500 Pa:fcst time 2 hrs:from 201712091800
+32:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 10000 Pa:fcst time 2 hrs:from 201712091800
+33:Temperature:K (instant):lambert:isobaricInhPa:level 10000 Pa:fcst time 2 hrs:from 201712091800
+34:Relative humidity:% (instant):lambert:isobaricInhPa:level 10000 Pa:fcst time 2 hrs:from 201712091800
+35:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 10000 Pa:fcst time 2 hrs:from 201712091800
+36:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 10000 Pa:fcst time 2 hrs:from 201712091800
+37:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 10000 Pa:fcst time 2 hrs:from 201712091800
+38:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 10000 Pa:fcst time 2 hrs:from 201712091800
+39:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 10000 Pa:fcst time 2 hrs:from 201712091800
+40:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 12500 Pa:fcst time 2 hrs:from 201712091800
+41:Temperature:K (instant):lambert:isobaricInhPa:level 12500 Pa:fcst time 2 hrs:from 201712091800
+42:Relative humidity:% (instant):lambert:isobaricInhPa:level 12500 Pa:fcst time 2 hrs:from 201712091800
+43:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 12500 Pa:fcst time 2 hrs:from 201712091800
+44:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 12500 Pa:fcst time 2 hrs:from 201712091800
+45:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 12500 Pa:fcst time 2 hrs:from 201712091800
+46:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 12500 Pa:fcst time 2 hrs:from 201712091800
+47:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 12500 Pa:fcst time 2 hrs:from 201712091800
+48:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 15000 Pa:fcst time 2 hrs:from 201712091800
+49:Temperature:K (instant):lambert:isobaricInhPa:level 15000 Pa:fcst time 2 hrs:from 201712091800
+50:Relative humidity:% (instant):lambert:isobaricInhPa:level 15000 Pa:fcst time 2 hrs:from 201712091800
+51:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 15000 Pa:fcst time 2 hrs:from 201712091800
+52:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 15000 Pa:fcst time 2 hrs:from 201712091800
+53:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 15000 Pa:fcst time 2 hrs:from 201712091800
+54:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 15000 Pa:fcst time 2 hrs:from 201712091800
+55:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 15000 Pa:fcst time 2 hrs:from 201712091800
+56:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 17500 Pa:fcst time 2 hrs:from 201712091800
+57:Temperature:K (instant):lambert:isobaricInhPa:level 17500 Pa:fcst time 2 hrs:from 201712091800
+58:Relative humidity:% (instant):lambert:isobaricInhPa:level 17500 Pa:fcst time 2 hrs:from 201712091800
+59:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 17500 Pa:fcst time 2 hrs:from 201712091800
+60:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 17500 Pa:fcst time 2 hrs:from 201712091800
+61:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 17500 Pa:fcst time 2 hrs:from 201712091800
+62:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 17500 Pa:fcst time 2 hrs:from 201712091800
+63:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 17500 Pa:fcst time 2 hrs:from 201712091800
+64:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 20000 Pa:fcst time 2 hrs:from 201712091800
+65:Temperature:K (instant):lambert:isobaricInhPa:level 20000 Pa:fcst time 2 hrs:from 201712091800
+66:Relative humidity:% (instant):lambert:isobaricInhPa:level 20000 Pa:fcst time 2 hrs:from 201712091800
+67:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 20000 Pa:fcst time 2 hrs:from 201712091800
+68:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 20000 Pa:fcst time 2 hrs:from 201712091800
+69:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 20000 Pa:fcst time 2 hrs:from 201712091800
+70:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 20000 Pa:fcst time 2 hrs:from 201712091800
+71:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 20000 Pa:fcst time 2 hrs:from 201712091800
+72:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 22500 Pa:fcst time 2 hrs:from 201712091800
+73:Temperature:K (instant):lambert:isobaricInhPa:level 22500 Pa:fcst time 2 hrs:from 201712091800
+74:Relative humidity:% (instant):lambert:isobaricInhPa:level 22500 Pa:fcst time 2 hrs:from 201712091800
+75:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 22500 Pa:fcst time 2 hrs:from 201712091800
+76:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 22500 Pa:fcst time 2 hrs:from 201712091800
+77:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 22500 Pa:fcst time 2 hrs:from 201712091800
+78:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 22500 Pa:fcst time 2 hrs:from 201712091800
+79:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 22500 Pa:fcst time 2 hrs:from 201712091800
+80:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+81:Temperature:K (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+82:Relative humidity:% (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+83:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+84:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+85:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+86:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+87:Absolute vorticity:s**-1 (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+88:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 25000 Pa:fcst time 2 hrs:from 201712091800
+89:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 27500 Pa:fcst time 2 hrs:from 201712091800
+90:Temperature:K (instant):lambert:isobaricInhPa:level 27500 Pa:fcst time 2 hrs:from 201712091800
+91:Relative humidity:% (instant):lambert:isobaricInhPa:level 27500 Pa:fcst time 2 hrs:from 201712091800
+92:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 27500 Pa:fcst time 2 hrs:from 201712091800
+93:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 27500 Pa:fcst time 2 hrs:from 201712091800
+94:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 27500 Pa:fcst time 2 hrs:from 201712091800
+95:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 27500 Pa:fcst time 2 hrs:from 201712091800
+96:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 27500 Pa:fcst time 2 hrs:from 201712091800
+97:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 30000 Pa:fcst time 2 hrs:from 201712091800
+98:Temperature:K (instant):lambert:isobaricInhPa:level 30000 Pa:fcst time 2 hrs:from 201712091800
+99:Relative humidity:% (instant):lambert:isobaricInhPa:level 30000 Pa:fcst time 2 hrs:from 201712091800
+100:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 30000 Pa:fcst time 2 hrs:from 201712091800
+101:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 30000 Pa:fcst time 2 hrs:from 201712091800
+102:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 30000 Pa:fcst time 2 hrs:from 201712091800
+103:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 30000 Pa:fcst time 2 hrs:from 201712091800
+104:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 30000 Pa:fcst time 2 hrs:from 201712091800
+105:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 32500 Pa:fcst time 2 hrs:from 201712091800
+106:Temperature:K (instant):lambert:isobaricInhPa:level 32500 Pa:fcst time 2 hrs:from 201712091800
+107:Relative humidity:% (instant):lambert:isobaricInhPa:level 32500 Pa:fcst time 2 hrs:from 201712091800
+108:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 32500 Pa:fcst time 2 hrs:from 201712091800
+109:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 32500 Pa:fcst time 2 hrs:from 201712091800
+110:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 32500 Pa:fcst time 2 hrs:from 201712091800
+111:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 32500 Pa:fcst time 2 hrs:from 201712091800
+112:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 32500 Pa:fcst time 2 hrs:from 201712091800
+113:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 35000 Pa:fcst time 2 hrs:from 201712091800
+114:Temperature:K (instant):lambert:isobaricInhPa:level 35000 Pa:fcst time 2 hrs:from 201712091800
+115:Relative humidity:% (instant):lambert:isobaricInhPa:level 35000 Pa:fcst time 2 hrs:from 201712091800
+116:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 35000 Pa:fcst time 2 hrs:from 201712091800
+117:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 35000 Pa:fcst time 2 hrs:from 201712091800
+118:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 35000 Pa:fcst time 2 hrs:from 201712091800
+119:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 35000 Pa:fcst time 2 hrs:from 201712091800
+120:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 35000 Pa:fcst time 2 hrs:from 201712091800
+121:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 37500 Pa:fcst time 2 hrs:from 201712091800
+122:Temperature:K (instant):lambert:isobaricInhPa:level 37500 Pa:fcst time 2 hrs:from 201712091800
+123:Relative humidity:% (instant):lambert:isobaricInhPa:level 37500 Pa:fcst time 2 hrs:from 201712091800
+124:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 37500 Pa:fcst time 2 hrs:from 201712091800
+125:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 37500 Pa:fcst time 2 hrs:from 201712091800
+126:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 37500 Pa:fcst time 2 hrs:from 201712091800
+127:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 37500 Pa:fcst time 2 hrs:from 201712091800
+128:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 37500 Pa:fcst time 2 hrs:from 201712091800
+129:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 40000 Pa:fcst time 2 hrs:from 201712091800
+130:Temperature:K (instant):lambert:isobaricInhPa:level 40000 Pa:fcst time 2 hrs:from 201712091800
+131:Relative humidity:% (instant):lambert:isobaricInhPa:level 40000 Pa:fcst time 2 hrs:from 201712091800
+132:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 40000 Pa:fcst time 2 hrs:from 201712091800
+133:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 40000 Pa:fcst time 2 hrs:from 201712091800
+134:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 40000 Pa:fcst time 2 hrs:from 201712091800
+135:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 40000 Pa:fcst time 2 hrs:from 201712091800
+136:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 40000 Pa:fcst time 2 hrs:from 201712091800
+137:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 42500 Pa:fcst time 2 hrs:from 201712091800
+138:Temperature:K (instant):lambert:isobaricInhPa:level 42500 Pa:fcst time 2 hrs:from 201712091800
+139:Relative humidity:% (instant):lambert:isobaricInhPa:level 42500 Pa:fcst time 2 hrs:from 201712091800
+140:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 42500 Pa:fcst time 2 hrs:from 201712091800
+141:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 42500 Pa:fcst time 2 hrs:from 201712091800
+142:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 42500 Pa:fcst time 2 hrs:from 201712091800
+143:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 42500 Pa:fcst time 2 hrs:from 201712091800
+144:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 42500 Pa:fcst time 2 hrs:from 201712091800
+145:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 45000 Pa:fcst time 2 hrs:from 201712091800
+146:Temperature:K (instant):lambert:isobaricInhPa:level 45000 Pa:fcst time 2 hrs:from 201712091800
+147:Relative humidity:% (instant):lambert:isobaricInhPa:level 45000 Pa:fcst time 2 hrs:from 201712091800
+148:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 45000 Pa:fcst time 2 hrs:from 201712091800
+149:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 45000 Pa:fcst time 2 hrs:from 201712091800
+150:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 45000 Pa:fcst time 2 hrs:from 201712091800
+151:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 45000 Pa:fcst time 2 hrs:from 201712091800
+152:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 45000 Pa:fcst time 2 hrs:from 201712091800
+153:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 47500 Pa:fcst time 2 hrs:from 201712091800
+154:Temperature:K (instant):lambert:isobaricInhPa:level 47500 Pa:fcst time 2 hrs:from 201712091800
+155:Relative humidity:% (instant):lambert:isobaricInhPa:level 47500 Pa:fcst time 2 hrs:from 201712091800
+156:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 47500 Pa:fcst time 2 hrs:from 201712091800
+157:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 47500 Pa:fcst time 2 hrs:from 201712091800
+158:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 47500 Pa:fcst time 2 hrs:from 201712091800
+159:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 47500 Pa:fcst time 2 hrs:from 201712091800
+160:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 47500 Pa:fcst time 2 hrs:from 201712091800
+161:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+162:Temperature:K (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+163:Relative humidity:% (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+164:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+165:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+166:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+167:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+168:Absolute vorticity:s**-1 (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+169:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 50000 Pa:fcst time 2 hrs:from 201712091800
+170:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 52500 Pa:fcst time 2 hrs:from 201712091800
+171:Temperature:K (instant):lambert:isobaricInhPa:level 52500 Pa:fcst time 2 hrs:from 201712091800
+172:Relative humidity:% (instant):lambert:isobaricInhPa:level 52500 Pa:fcst time 2 hrs:from 201712091800
+173:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 52500 Pa:fcst time 2 hrs:from 201712091800
+174:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 52500 Pa:fcst time 2 hrs:from 201712091800
+175:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 52500 Pa:fcst time 2 hrs:from 201712091800
+176:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 52500 Pa:fcst time 2 hrs:from 201712091800
+177:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 52500 Pa:fcst time 2 hrs:from 201712091800
+178:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 55000 Pa:fcst time 2 hrs:from 201712091800
+179:Temperature:K (instant):lambert:isobaricInhPa:level 55000 Pa:fcst time 2 hrs:from 201712091800
+180:Relative humidity:% (instant):lambert:isobaricInhPa:level 55000 Pa:fcst time 2 hrs:from 201712091800
+181:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 55000 Pa:fcst time 2 hrs:from 201712091800
+182:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 55000 Pa:fcst time 2 hrs:from 201712091800
+183:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 55000 Pa:fcst time 2 hrs:from 201712091800
+184:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 55000 Pa:fcst time 2 hrs:from 201712091800
+185:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 55000 Pa:fcst time 2 hrs:from 201712091800
+186:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 57500 Pa:fcst time 2 hrs:from 201712091800
+187:Temperature:K (instant):lambert:isobaricInhPa:level 57500 Pa:fcst time 2 hrs:from 201712091800
+188:Relative humidity:% (instant):lambert:isobaricInhPa:level 57500 Pa:fcst time 2 hrs:from 201712091800
+189:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 57500 Pa:fcst time 2 hrs:from 201712091800
+190:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 57500 Pa:fcst time 2 hrs:from 201712091800
+191:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 57500 Pa:fcst time 2 hrs:from 201712091800
+192:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 57500 Pa:fcst time 2 hrs:from 201712091800
+193:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 57500 Pa:fcst time 2 hrs:from 201712091800
+194:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 60000 Pa:fcst time 2 hrs:from 201712091800
+195:Temperature:K (instant):lambert:isobaricInhPa:level 60000 Pa:fcst time 2 hrs:from 201712091800
+196:Relative humidity:% (instant):lambert:isobaricInhPa:level 60000 Pa:fcst time 2 hrs:from 201712091800
+197:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 60000 Pa:fcst time 2 hrs:from 201712091800
+198:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 60000 Pa:fcst time 2 hrs:from 201712091800
+199:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 60000 Pa:fcst time 2 hrs:from 201712091800
+200:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 60000 Pa:fcst time 2 hrs:from 201712091800
+201:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 60000 Pa:fcst time 2 hrs:from 201712091800
+202:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 62500 Pa:fcst time 2 hrs:from 201712091800
+203:Temperature:K (instant):lambert:isobaricInhPa:level 62500 Pa:fcst time 2 hrs:from 201712091800
+204:Relative humidity:% (instant):lambert:isobaricInhPa:level 62500 Pa:fcst time 2 hrs:from 201712091800
+205:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 62500 Pa:fcst time 2 hrs:from 201712091800
+206:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 62500 Pa:fcst time 2 hrs:from 201712091800
+207:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 62500 Pa:fcst time 2 hrs:from 201712091800
+208:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 62500 Pa:fcst time 2 hrs:from 201712091800
+209:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 62500 Pa:fcst time 2 hrs:from 201712091800
+210:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 65000 Pa:fcst time 2 hrs:from 201712091800
+211:Temperature:K (instant):lambert:isobaricInhPa:level 65000 Pa:fcst time 2 hrs:from 201712091800
+212:Relative humidity:% (instant):lambert:isobaricInhPa:level 65000 Pa:fcst time 2 hrs:from 201712091800
+213:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 65000 Pa:fcst time 2 hrs:from 201712091800
+214:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 65000 Pa:fcst time 2 hrs:from 201712091800
+215:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 65000 Pa:fcst time 2 hrs:from 201712091800
+216:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 65000 Pa:fcst time 2 hrs:from 201712091800
+217:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 65000 Pa:fcst time 2 hrs:from 201712091800
+218:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 67500 Pa:fcst time 2 hrs:from 201712091800
+219:Temperature:K (instant):lambert:isobaricInhPa:level 67500 Pa:fcst time 2 hrs:from 201712091800
+220:Relative humidity:% (instant):lambert:isobaricInhPa:level 67500 Pa:fcst time 2 hrs:from 201712091800
+221:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 67500 Pa:fcst time 2 hrs:from 201712091800
+222:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 67500 Pa:fcst time 2 hrs:from 201712091800
+223:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 67500 Pa:fcst time 2 hrs:from 201712091800
+224:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 67500 Pa:fcst time 2 hrs:from 201712091800
+225:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 67500 Pa:fcst time 2 hrs:from 201712091800
+226:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+227:Temperature:K (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+228:Relative humidity:% (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+229:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+230:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+231:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+232:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+233:Absolute vorticity:s**-1 (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+234:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 70000 Pa:fcst time 2 hrs:from 201712091800
+235:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 72500 Pa:fcst time 2 hrs:from 201712091800
+236:Temperature:K (instant):lambert:isobaricInhPa:level 72500 Pa:fcst time 2 hrs:from 201712091800
+237:Relative humidity:% (instant):lambert:isobaricInhPa:level 72500 Pa:fcst time 2 hrs:from 201712091800
+238:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 72500 Pa:fcst time 2 hrs:from 201712091800
+239:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 72500 Pa:fcst time 2 hrs:from 201712091800
+240:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 72500 Pa:fcst time 2 hrs:from 201712091800
+241:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 72500 Pa:fcst time 2 hrs:from 201712091800
+242:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 72500 Pa:fcst time 2 hrs:from 201712091800
+243:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 75000 Pa:fcst time 2 hrs:from 201712091800
+244:Temperature:K (instant):lambert:isobaricInhPa:level 75000 Pa:fcst time 2 hrs:from 201712091800
+245:Relative humidity:% (instant):lambert:isobaricInhPa:level 75000 Pa:fcst time 2 hrs:from 201712091800
+246:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 75000 Pa:fcst time 2 hrs:from 201712091800
+247:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 75000 Pa:fcst time 2 hrs:from 201712091800
+248:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 75000 Pa:fcst time 2 hrs:from 201712091800
+249:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 75000 Pa:fcst time 2 hrs:from 201712091800
+250:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 75000 Pa:fcst time 2 hrs:from 201712091800
+251:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 77500 Pa:fcst time 2 hrs:from 201712091800
+252:Temperature:K (instant):lambert:isobaricInhPa:level 77500 Pa:fcst time 2 hrs:from 201712091800
+253:Relative humidity:% (instant):lambert:isobaricInhPa:level 77500 Pa:fcst time 2 hrs:from 201712091800
+254:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 77500 Pa:fcst time 2 hrs:from 201712091800
+255:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 77500 Pa:fcst time 2 hrs:from 201712091800
+256:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 77500 Pa:fcst time 2 hrs:from 201712091800
+257:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 77500 Pa:fcst time 2 hrs:from 201712091800
+258:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 77500 Pa:fcst time 2 hrs:from 201712091800
+259:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 80000 Pa:fcst time 2 hrs:from 201712091800
+260:Temperature:K (instant):lambert:isobaricInhPa:level 80000 Pa:fcst time 2 hrs:from 201712091800
+261:Relative humidity:% (instant):lambert:isobaricInhPa:level 80000 Pa:fcst time 2 hrs:from 201712091800
+262:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 80000 Pa:fcst time 2 hrs:from 201712091800
+263:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 80000 Pa:fcst time 2 hrs:from 201712091800
+264:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 80000 Pa:fcst time 2 hrs:from 201712091800
+265:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 80000 Pa:fcst time 2 hrs:from 201712091800
+266:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 80000 Pa:fcst time 2 hrs:from 201712091800
+267:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 82500 Pa:fcst time 2 hrs:from 201712091800
+268:Temperature:K (instant):lambert:isobaricInhPa:level 82500 Pa:fcst time 2 hrs:from 201712091800
+269:Relative humidity:% (instant):lambert:isobaricInhPa:level 82500 Pa:fcst time 2 hrs:from 201712091800
+270:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 82500 Pa:fcst time 2 hrs:from 201712091800
+271:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 82500 Pa:fcst time 2 hrs:from 201712091800
+272:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 82500 Pa:fcst time 2 hrs:from 201712091800
+273:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 82500 Pa:fcst time 2 hrs:from 201712091800
+274:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 82500 Pa:fcst time 2 hrs:from 201712091800
+275:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+276:Temperature:K (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+277:Relative humidity:% (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+278:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+279:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+280:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+281:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+282:Absolute vorticity:s**-1 (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+283:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 85000 Pa:fcst time 2 hrs:from 201712091800
+284:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 87500 Pa:fcst time 2 hrs:from 201712091800
+285:Temperature:K (instant):lambert:isobaricInhPa:level 87500 Pa:fcst time 2 hrs:from 201712091800
+286:Relative humidity:% (instant):lambert:isobaricInhPa:level 87500 Pa:fcst time 2 hrs:from 201712091800
+287:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 87500 Pa:fcst time 2 hrs:from 201712091800
+288:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 87500 Pa:fcst time 2 hrs:from 201712091800
+289:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 87500 Pa:fcst time 2 hrs:from 201712091800
+290:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 87500 Pa:fcst time 2 hrs:from 201712091800
+291:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 87500 Pa:fcst time 2 hrs:from 201712091800
+292:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 90000 Pa:fcst time 2 hrs:from 201712091800
+293:Temperature:K (instant):lambert:isobaricInhPa:level 90000 Pa:fcst time 2 hrs:from 201712091800
+294:Relative humidity:% (instant):lambert:isobaricInhPa:level 90000 Pa:fcst time 2 hrs:from 201712091800
+295:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 90000 Pa:fcst time 2 hrs:from 201712091800
+296:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 90000 Pa:fcst time 2 hrs:from 201712091800
+297:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 90000 Pa:fcst time 2 hrs:from 201712091800
+298:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 90000 Pa:fcst time 2 hrs:from 201712091800
+299:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 90000 Pa:fcst time 2 hrs:from 201712091800
+300:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 92500 Pa:fcst time 2 hrs:from 201712091800
+301:Temperature:K (instant):lambert:isobaricInhPa:level 92500 Pa:fcst time 2 hrs:from 201712091800
+302:Relative humidity:% (instant):lambert:isobaricInhPa:level 92500 Pa:fcst time 2 hrs:from 201712091800
+303:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 92500 Pa:fcst time 2 hrs:from 201712091800
+304:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 92500 Pa:fcst time 2 hrs:from 201712091800
+305:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 92500 Pa:fcst time 2 hrs:from 201712091800
+306:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 92500 Pa:fcst time 2 hrs:from 201712091800
+307:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 92500 Pa:fcst time 2 hrs:from 201712091800
+308:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 95000 Pa:fcst time 2 hrs:from 201712091800
+309:Temperature:K (instant):lambert:isobaricInhPa:level 95000 Pa:fcst time 2 hrs:from 201712091800
+310:Relative humidity:% (instant):lambert:isobaricInhPa:level 95000 Pa:fcst time 2 hrs:from 201712091800
+311:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 95000 Pa:fcst time 2 hrs:from 201712091800
+312:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 95000 Pa:fcst time 2 hrs:from 201712091800
+313:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 95000 Pa:fcst time 2 hrs:from 201712091800
+314:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 95000 Pa:fcst time 2 hrs:from 201712091800
+315:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 95000 Pa:fcst time 2 hrs:from 201712091800
+316:Haines Index:Numeric (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+317:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 97500 Pa:fcst time 2 hrs:from 201712091800
+318:Temperature:K (instant):lambert:isobaricInhPa:level 97500 Pa:fcst time 2 hrs:from 201712091800
+319:Relative humidity:% (instant):lambert:isobaricInhPa:level 97500 Pa:fcst time 2 hrs:from 201712091800
+320:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 97500 Pa:fcst time 2 hrs:from 201712091800
+321:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 97500 Pa:fcst time 2 hrs:from 201712091800
+322:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 97500 Pa:fcst time 2 hrs:from 201712091800
+323:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 97500 Pa:fcst time 2 hrs:from 201712091800
+324:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 97500 Pa:fcst time 2 hrs:from 201712091800
+325:Temperature:K (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+326:Relative humidity:% (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+327:Vertical velocity:Pa s**-1 (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+328:Geometric vertical velocity:m s**-1 (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+329:U component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+330:V component of wind:m s**-1 (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+331:Absolute vorticity:s**-1 (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+332:Turbulent kinetic energy:J kg**-1 (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+333:MSLP (Eta model reduction):Pa (instant):lambert:meanSea:level 0:fcst time 2 hrs:from 201712091800
+334:Geopotential Height:gpm (instant):lambert:isobaricInhPa:level 100000 Pa:fcst time 2 hrs:from 201712091800
+335:Derived radar reflectivity:dB (instant):lambert:heightAboveGround:level 4000 m:fcst time 2 hrs:from 201712091800
+336:Derived radar reflectivity:dB (instant):lambert:heightAboveGround:level 1000 m:fcst time 2 hrs:from 201712091800
+337:Surface pressure:Pa (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+338:Orography:m (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+339:Temperature:K (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+340:Soil Temperature:K (instant):lambert:depthBelowLandLayer:levels 0.0-0.1 m:fcst time 2 hrs:from 201712091800
+341:Volumetric soil moisture content:Proportion (instant):lambert:depthBelowLandLayer:levels 0.0-0.1 m:fcst time 2 hrs:from 201712091800
+342:Liquid volumetric soil moisture (non-frozen):Proportion (instant):lambert:depthBelowLandLayer:levels 0.0-0.1 m:fcst time 2 hrs:from 201712091800
+343:Soil Temperature:K (instant):lambert:depthBelowLandLayer:levels 0.1-0.4 m:fcst time 2 hrs:from 201712091800
+344:Volumetric soil moisture content:Proportion (instant):lambert:depthBelowLandLayer:levels 0.1-0.4 m:fcst time 2 hrs:from 201712091800
+345:Liquid volumetric soil moisture (non-frozen):Proportion (instant):lambert:depthBelowLandLayer:levels 0.1-0.4 m:fcst time 2 hrs:from 201712091800
+346:Soil Temperature:K (instant):lambert:depthBelowLandLayer:levels 0.4-1.0 m:fcst time 2 hrs:from 201712091800
+347:Volumetric soil moisture content:Proportion (instant):lambert:depthBelowLandLayer:levels 0.4-1.0 m:fcst time 2 hrs:from 201712091800
+348:Liquid volumetric soil moisture (non-frozen):Proportion (instant):lambert:depthBelowLandLayer:levels 0.4-1.0 m:fcst time 2 hrs:from 201712091800
+349:Soil Temperature:K (instant):lambert:depthBelowLandLayer:levels 1.0-2.0 m:fcst time 2 hrs:from 201712091800
+350:Volumetric soil moisture content:Proportion (instant):lambert:depthBelowLandLayer:levels 1.0-2.0 m:fcst time 2 hrs:from 201712091800
+351:Liquid volumetric soil moisture (non-frozen):Proportion (instant):lambert:depthBelowLandLayer:levels 1.0-2.0 m:fcst time 2 hrs:from 201712091800
+352:Soil Temperature:K (instant):lambert:depthBelowLand:level 3 m:fcst time 2 hrs:from 201712091800
+353:Moisture availability:% (instant):lambert:depthBelowLandLayer:levels 0.0-1.0 m:fcst time 2 hrs:from 201712091800
+354:Soil moisture content:kg m**-2 (instant):lambert:depthBelowLandLayer:levels 0.0-2.0 m:fcst time 2 hrs:from 201712091800
+355:Plant canopy surface water:kg m**-2 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+356:Water equivalent of accumulated snow depth:kg m**-2 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+357:Snow cover:% (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+358:Snow depth:m (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+359:Direct evaporation cease (soil moisture):Proportion (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+360:Soil porosity:Proportion (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+361:2 metre temperature:K (instant):lambert:heightAboveGround:level 2 m:fcst time 2 hrs:from 201712091800
+362:Specific humidity:kg kg**-1 (instant):lambert:heightAboveGround:level 2 m:fcst time 2 hrs:from 201712091800
+363:2 metre dewpoint temperature:K (instant):lambert:heightAboveGround:level 2 m:fcst time 2 hrs:from 201712091800
+364:2 metre relative humidity:% (instant):lambert:heightAboveGround:level 2 m:fcst time 2 hrs:from 201712091800
+365:Maximum temperature:K (max):lambert:heightAboveGround:level 2 m:fcst time 1-2 hrs (max):from 201712091800
+366:Minimum temperature:K (min):lambert:heightAboveGround:level 2 m:fcst time 1-2 hrs (min):from 201712091800
+367:Maximum relative humidity:% (max):lambert:heightAboveGround:level 2 m:fcst time 1-2 hrs (max):from 201712091800
+368:Minimum Relative Humidity:% (min):lambert:heightAboveGround:level 2 m:fcst time 1-2 hrs (min):from 201712091800
+369:10 metre U wind component:m s**-1 (instant):lambert:heightAboveGround:level 10 m:fcst time 2 hrs:from 201712091800
+370:10 metre V wind component:m s**-1 (instant):lambert:heightAboveGround:level 10 m:fcst time 2 hrs:from 201712091800
+371:222:222 (max):lambert:heightAboveGround:level 10 m:fcst time 1-2 hrs (max):from 201712091800
+372:223:223 (max):lambert:heightAboveGround:level 10 m:fcst time 1-2 hrs (max):from 201712091800
+373:Total Precipitation:kg m**-2 (accum):lambert:surface:level 0:fcst time 0-2 hrs (accum):from 201712091800
+374:Convective precipitation (water):kg m**-2 (accum):lambert:surface:level 0:fcst time 0-2 hrs (accum):from 201712091800
+375:Water equivalent of accumulated snow depth:kg m**-2 (accum):lambert:surface:level 0:fcst time 0-2 hrs (accum):from 201712091800
+376:Geopotential Height:gpm (instant):lambert:unknown:level 0 245:fcst time 2 hrs:from 201712091800
+377:Categorical snow:(Code table 4.222) (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+378:Categorical ice pellets:(Code table 4.222) (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+379:Categorical freezing rain:(Code table 4.222) (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+380:Categorical rain:(Code table 4.222) (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+381:Surface roughness:m (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+382:Frictional velocity:m s**-1 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+383:Drag coefficient:Numeric (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+384:Vegetation:% (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+385:Vegetation Type:Integer(0-13) (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+386:Soil type:~ (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+387:Number of soil layers in root zone:Numeric (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+388:Wilting Point:Fraction (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+389:Transpiration stress-onset (soil moisture):Proportion (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+390:Surface lifted index:K (instant):lambert:isobaricLayer:levels 50000-100000 Pa:fcst time 2 hrs:from 201712091800
+391:Convective available potential energy:J kg**-1 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+392:Convective inhibition:J kg**-1 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+393:Precipitable water:kg m**-2 (instant):lambert:unknown:level 0 considered as a single layer:fcst time 2 hrs:from 201712091800
+394:Geopotential Height:gpm (instant):lambert:cloudBase:level 0:fcst time 2 hrs:from 201712091800
+395:Storm relative helicity:J kg**-1 (instant):lambert:heightAboveGroundLayer:levels 3000-0 m:fcst time 2 hrs:from 201712091800
+396:Vertical u-component shear:s**-1 (instant):lambert:heightAboveGroundLayer:levels 0-6000 m:fcst time 2 hrs:from 201712091800
+397:Vertical v-component shear:s**-1 (instant):lambert:heightAboveGroundLayer:levels 0-6000 m:fcst time 2 hrs:from 201712091800
+398:Pressure:Pa (instant):lambert:tropopause:level 0:fcst time 2 hrs:from 201712091800
+399:Temperature:K (instant):lambert:tropopause:level 0:fcst time 2 hrs:from 201712091800
+400:U component of wind:m s**-1 (instant):lambert:tropopause:level 0:fcst time 2 hrs:from 201712091800
+401:V component of wind:m s**-1 (instant):lambert:tropopause:level 0:fcst time 2 hrs:from 201712091800
+402:Pressure:Pa (instant):lambert:maxWind:level 0:fcst time 2 hrs:from 201712091800
+403:U component of wind:m s**-1 (instant):lambert:maxWind:level 0:fcst time 2 hrs:from 201712091800
+404:V component of wind:m s**-1 (instant):lambert:maxWind:level 0:fcst time 2 hrs:from 201712091800
+405:Temperature:K (instant):lambert:heightAboveGround:level 80 m:fcst time 2 hrs:from 201712091800
+406:Specific humidity:kg kg**-1 (instant):lambert:heightAboveGround:level 80 m:fcst time 2 hrs:from 201712091800
+407:Pressure:Pa (instant):lambert:heightAboveGround:level 80 m:fcst time 2 hrs:from 201712091800
+408:U component of wind:m s**-1 (instant):lambert:heightAboveGround:level 80 m:fcst time 2 hrs:from 201712091800
+409:V component of wind:m s**-1 (instant):lambert:heightAboveGround:level 80 m:fcst time 2 hrs:from 201712091800
+410:Geopotential Height:gpm (instant):lambert:isothermZero:level 0:fcst time 2 hrs:from 201712091800
+411:Relative humidity:% (instant):lambert:isothermZero:level 0:fcst time 2 hrs:from 201712091800
+412:Temperature:K (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 2 hrs:from 201712091800
+413:Relative humidity:% (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 2 hrs:from 201712091800
+414:U component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 2 hrs:from 201712091800
+415:V component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 2 hrs:from 201712091800
+416:Parcel lifted index (to 500 hPa):K (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 2 hrs:from 201712091800
+417:Temperature:K (instant):lambert:pressureFromGroundLayer:levels 6000-3000 Pa:fcst time 2 hrs:from 201712091800
+418:Relative humidity:% (instant):lambert:pressureFromGroundLayer:levels 6000-3000 Pa:fcst time 2 hrs:from 201712091800
+419:U component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 6000-3000 Pa:fcst time 2 hrs:from 201712091800
+420:V component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 6000-3000 Pa:fcst time 2 hrs:from 201712091800
+421:Temperature:K (instant):lambert:pressureFromGroundLayer:levels 9000-6000 Pa:fcst time 2 hrs:from 201712091800
+422:Relative humidity:% (instant):lambert:pressureFromGroundLayer:levels 9000-6000 Pa:fcst time 2 hrs:from 201712091800
+423:U component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 9000-6000 Pa:fcst time 2 hrs:from 201712091800
+424:V component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 9000-6000 Pa:fcst time 2 hrs:from 201712091800
+425:Temperature:K (instant):lambert:pressureFromGroundLayer:levels 12000-9000 Pa:fcst time 2 hrs:from 201712091800
+426:Relative humidity:% (instant):lambert:pressureFromGroundLayer:levels 12000-9000 Pa:fcst time 2 hrs:from 201712091800
+427:U component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 12000-9000 Pa:fcst time 2 hrs:from 201712091800
+428:V component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 12000-9000 Pa:fcst time 2 hrs:from 201712091800
+429:Temperature:K (instant):lambert:pressureFromGroundLayer:levels 15000-12000 Pa:fcst time 2 hrs:from 201712091800
+430:Relative humidity:% (instant):lambert:pressureFromGroundLayer:levels 15000-12000 Pa:fcst time 2 hrs:from 201712091800
+431:U component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 15000-12000 Pa:fcst time 2 hrs:from 201712091800
+432:V component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 15000-12000 Pa:fcst time 2 hrs:from 201712091800
+433:Temperature:K (instant):lambert:pressureFromGroundLayer:levels 18000-15000 Pa:fcst time 2 hrs:from 201712091800
+434:Relative humidity:% (instant):lambert:pressureFromGroundLayer:levels 18000-15000 Pa:fcst time 2 hrs:from 201712091800
+435:U component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 18000-15000 Pa:fcst time 2 hrs:from 201712091800
+436:V component of wind:m s**-1 (instant):lambert:pressureFromGroundLayer:levels 18000-15000 Pa:fcst time 2 hrs:from 201712091800
+437:Best (4-layer) lifted index:K (instant):lambert:pressureFromGroundLayer:levels 18000-0 Pa:fcst time 2 hrs:from 201712091800
+438:Convective available potential energy:J kg**-1 (instant):lambert:pressureFromGroundLayer:levels 18000-0 Pa:fcst time 2 hrs:from 201712091800
+439:Convective inhibition:J kg**-1 (instant):lambert:pressureFromGroundLayer:levels 18000-0 Pa:fcst time 2 hrs:from 201712091800
+440:Planetary boundary layer height:m (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+441:Relative humidity:% (instant):lambert:sigmaLayer:levels 0.33-1.0 sigma value:fcst time 2 hrs:from 201712091800
+442:Lightning:dimensionless (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+443:Land-sea mask:(0 - 1) (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+444:Sea-ice cover:(0 - 1) (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+445:Albedo:% (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+446:Sensible heat net flux:W m**-2 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+447:Latent heat net flux:W m**-2 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+448:Total Cloud Cover:% (instant):lambert:unknown:level 0 considered as a single layer:fcst time 2 hrs:from 201712091800
+449:Downward short-wave radiation flux:W m**-2 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+450:Downward long-wave radiation flux:W m**-2 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+451:Upward short-wave radiation flux:W m**-2 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
+452:Upward long-wave radiation flux:W m**-2 (instant):lambert:surface:level 0:fcst time 2 hrs:from 201712091800
